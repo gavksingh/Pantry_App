@@ -3,6 +3,9 @@
 
 This project is an Inventory Management System that allows users to upload photos of items. The system identifies the items from the photos, updates the inventory accordingly, and provides a user-friendly interface for managing and viewing items categorized by different types.
 
+![Homepage Screenshot](assets/screenshot.jpg)
+
+
 ### Key Features
 
 - **Photo Upload**: Upload images of items to automatically identify and add them to the inventory.
