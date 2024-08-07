@@ -87,14 +87,9 @@ This project is an Inventory Management System that allows users to upload photo
 
 ## Usage
 
-1. **Upload Photo**: Use the "Upload Photo" button to select and upload images of items. The system will process the image, identify the item, and add it to the inventory.
-2. **View Inventory**: Browse through items categorized by different types using the sidebar.
-3. **Add/Edit Items**: Use the dialog form to add new items or edit existing ones.
-4. **Remove Items**: Select an item from the inventory and remove it as needed.
-
-## API Endpoints
-
-- **POST /api/sendphoto**: Upload an image and receive item identification results.
+1. **View Inventory**: Browse through items categorized by different types using the sidebar.
+2. **Add/Edit Items**: Use the dialog form to add new items or edit existing ones.
+3. **Remove Items**: Select an item from the inventory and remove it as needed.
 
 ## Contributing
 
